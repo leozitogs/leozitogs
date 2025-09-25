@@ -74,21 +74,3 @@ Front‑end · Back‑end · Design — a mistura que eu gosto:
 </p>
 
 ---
-
-## Dicas rápidas — como transformar isso numa vitrine profissional
-
-* **Imagem de capa:** Use uma arte limpa com paleta Leovox (roxo + preto). Nome do arquivo: `banner.png` e hospede no repositório.
-* **Pinned repos:** fixe 3–6 projetos que mostrem variedade (web, scripts, design, academic).
-* **README dos projetos:** mostre screenshots e um GIF curto do app em ação.
-* **GitHub Pages:** publique um resumo interativo do seu portfólio usando `gh-pages` ou `Vercel`.
-* **Automação:** crie uma GitHub Action simples para rodar lint/tests e mostrar badges.
-
----
-
-Eu deixei placeholders em `leozitogs`, `SEU-LINKEDIN` e `SEU-INSTAGRAM` para você trocar rapidinho. O tom aqui é profissional com pitadas de personalidade — curto, direto e visual. Se quiser, eu:
-
-* adapto o texto para inglês completo (CV style) — *or* keep bilingual;
-* gero as badges prontas com seu usuário;
-* monto a versão final do banner usando a identidade visual da Leovox.
-
-**Vamo que vamo — façamos esse GitHub rugir como um Leão visionário.** 🦁🌌
