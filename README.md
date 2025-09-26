@@ -30,7 +30,9 @@ Front‑end · Back‑end · Design — a mistura que eu gosto:
 * **Interesses técnicos:** jogos com Pygame, acessibilidade web, boas práticas de UX, automação de deploy.
 
 ```
-[![GitHub followers](https://img.shields.io/github/followers/leozitogs?label=follow&style=social)](https://github.com/leozitogs)
+
+[![GitHub stars](https://img.shields.io/github/stars/leozitogs?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/leozitogs?tab=repositories)
+
 ```
 
 ---
