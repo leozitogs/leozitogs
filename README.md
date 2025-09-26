@@ -29,11 +29,7 @@ Front‑end · Back‑end · Design — a mistura que eu gosto:
 * **Dev tooling:** Git, GitHub, VS Code, Linux.
 * **Interesses técnicos:** jogos com Pygame, acessibilidade web, boas práticas de UX, automação de deploy.
 
-```
-
 [![GitHub stars](https://img.shields.io/github/stars/leozitogs?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/leozitogs?tab=repositories)
-
-```
 
 ---
 
