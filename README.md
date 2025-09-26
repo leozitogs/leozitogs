@@ -29,8 +29,6 @@ Front‑end · Back‑end · Design — a mistura que eu gosto:
 * **Dev tooling:** Git, GitHub, VS Code, Linux.
 * **Interesses técnicos:** jogos com Pygame, acessibilidade web, boas práticas de UX, automação de deploy.
 
-> Use estas badges abaixo no seu README substituindo `leozitogs` pelo seu usuário real.
-
 ```
 [![GitHub followers](https://img.shields.io/github/followers/leozitogs?label=follow&style=social)](https://github.com/leozitogs)
 ```
@@ -44,8 +42,6 @@ Front‑end · Back‑end · Design — a mistura que eu gosto:
 * **Portfolio — Leovox Studios** — Website pessoal com foco em identidade visual e apresentação de projetos. (React / Flask integration)
 * **sCIna — Projeto Acadêmico** — storytelling & interface para sistema de comunicação acadêmica. Design + prototipagem + documentação.
 * **Saikai Sushi — Social Media Toolkit** — templates gráficos, cronograma de postagens e automações para WhatsApp/Instagram.
-
-> Cada projeto no repositório deve ter um `README.md` próprio com: resumo, tech stack, screenshots, como rodar localmente e licença.
 
 ---
 
