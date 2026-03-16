@@ -31,7 +31,7 @@ Front‑end · Back‑end · Design — a mistura que eu gosto:
 
 [![GitHub stars](https://img.shields.io/github/stars/leozitogs?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/leozitogs?tab=repositories)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozitogs&layout=compact&langs_count=8)
 
 ---
 
