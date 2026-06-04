@@ -75,24 +75,24 @@ A few projects that show the range: applied AI, full-stack products, and systems
 <tr>
 <td width="50%">
 <a href="https://github.com/leozitogs/vid2llm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leozitogs&repo=vid2llm&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="vid2llm">
+<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=vid2llm&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="vid2llm">
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/leozitogs/hi-ufpe-web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leozitogs&repo=hi-ufpe-web&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="hi-ufpe-web">
+<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=hi-ufpe-web&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="hi-ufpe-web">
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/leozitogs/leovox-task">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leozitogs&repo=leovox-task&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="leovox-task">
+<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=leovox-task&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="leovox-task">
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/leozitogs/portfolio-digital-flask">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leozitogs&repo=portfolio-digital-flask&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="portfolio-digital-flask">
+<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=portfolio-digital-flask&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="portfolio-digital-flask">
 </a>
 </td>
 </tr>
@@ -111,8 +111,8 @@ pip install vid2llm
 ## 04 · Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leozitogs&show_icons=true&count_private=true&hide_border=false&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=FFFFFF&border_color=222222" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozitogs&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=19BC00&text_color=FFFFFF&border_color=222222" alt="Top languages">
+<img height="165" src="https://github-readme-stats-leozitogs.vercel.app/api?username=leozitogs&show_icons=true&count_private=true&hide_border=false&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=FFFFFF&border_color=222222" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats-leozitogs.vercel.app/api/top-langs/?username=leozitogs&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=19BC00&text_color=FFFFFF&border_color=222222" alt="Top languages">
 </p>
 
 <br>
