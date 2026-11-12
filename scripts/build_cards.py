@@ -64,8 +64,8 @@ PROJECTS = [
     },
     {
         "repo": "agentic-lab",
-        "desc": "A living lab for AI systems engineering: versioned prompts, "
-        "reusable skills, MCP servers and evals, in an 8-week track.",
+        "desc": "An open lab for AI engineering: prompts, skills and MCP, "
+        "then multi-agent systems, harness and evals. 16 weeks.",
         "tag": "PLAYBOOK",
         "lang_fallback": "Markdown",
     },
