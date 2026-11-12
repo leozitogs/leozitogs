@@ -1,114 +1,129 @@
 <!-- =================================================================
   README · leozitogs
-  Leonardo Sobral · AI Developer · Founder, Leovox Studios
-  Coloque este arquivo na raiz do repositorio leozitogs/leozitogs
-  e o hero em assets/hero-animated.gif
+  Leonardo Gonçalves · Tech Lead & AI Engineer · Founder, Leovox Studios
 ================================================================= -->
 
-<!-- ===================== 01 · HERO ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="assets/hero-animated.gif" width="100%" alt="Leonardo Sobral · AI Developer · Leovox Studios">
+  <img src="assets/hero-animated.gif" width="100%" alt="Leonardo Gonçalves · Tech Lead & AI Engineer · Leovox Studios">
 </p>
 
 <!-- ===================== QUICK LINKS ===================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-gonçalves01/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=19BC00" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/leonardogsobral/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=19BC00" alt="LinkedIn"></a>
   <a href="https://www.behance.net/leovoxstudiosS"><img src="https://img.shields.io/badge/Behance-000000?style=flat-square&logo=behance&logoColor=19BC00" alt="Behance"></a>
   <a href="https://www.instagram.com/leozitogs"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=19BC00" alt="Instagram"></a>
   <a href="mailto:studiosleovox@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=19BC00" alt="Email"></a>
-  <a href="https://portfolio-digital-flask.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=19BC00" alt="Portfolio"></a>
 </p>
 
 <br>
 
-<!-- ===================== 02 · ABOUT ===================== -->
+<!-- ===================== ABOUT ===================== -->
 ## 01 · About
 
-I build at the intersection of artificial intelligence and design.
+**Tech Lead at V-Lab (UFPE)**, the R&D lab of the Center for Informatics, where I lead two AI products and the lab's agentic coding strategy.
 
-AI Developer at V-Lab (UFPE) and Computer Science student at CIn/UFPE. I work where engineering meets visual identity, shipping products that are technically solid and visually sharp. To me, code and design are not separate disciplines. They are one craft.
+My foundation is **AI engineering**. I build multi-agent systems with the Claude Agent SDK and LangGraph, design pipelines with swappable LLMs, and combine them with local specialist models for transcription, risk prediction and hybrid search. Evals measure every outcome.
 
-Right now I am focused on applied AI: LLM applications, agents, and turning models into tools people actually use. Beyond the code, I run **Leovox Studios**, my creative studio for design and software.
+Two things set me apart:
+
+- **Agentic coding:** building software with AI agents in a team's daily work.
+- **Harness engineering:** building the environment that makes that work safe and verifiable, with specs before code, guardrails, human approval gates and automated review.
+
+As a lead, no feature starts without an engineering plan, and decisions live in ADRs. I come from design, run **Leovox Studios**, and study Information Systems at CIn/UFPE.
 
 <br>
 
-<!-- ===================== 03 · ARSENAL ===================== -->
-## 02 · Arsenal
+<!-- ===================== NOW ===================== -->
+## 02 · What I'm building
 
-<!-- Substitua este bloco por assets/stack.svg quando o painel custom estiver pronto. -->
+**At V-Lab** *(private work, described at a high level)*
+- **An ERP built with agentic coding:** about 30 agents on the Claude Agent SDK, orchestrated in LangGraph, with local specialist models, human approval gates and automated review.
+- **An AI-powered digital course factory:** a hexagonal TypeScript monorepo with swappable LLMs, versioned prompts, a 7-metric eval and 5,000+ automated tests.
 
-**AI / ML**  
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=19BC00)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=19BC00)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=19BC00)
+**In the open**
+- **[AI Harness Compiler](https://github.com/leozitogs/ai-harness-compiler):** compiles project intent into typed, verifiable AI engineering harnesses.
+- **[vid2llm](https://github.com/leozitogs/vid2llm):** turns any video into LLM-ready frames. `pip install vid2llm`
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=19BC00)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=19BC00)
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=19BC00)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=19BC00)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=19BC00)
+<br>
+
+<!-- ===================== ARSENAL ===================== -->
+## 03 · Arsenal
+
+**AI engineering**  
+![Claude](https://img.shields.io/badge/Claude_Agent_SDK-000000?style=flat-square&logo=anthropic&logoColor=19BC00)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=19BC00)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=19BC00)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=19BC00)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=19BC00)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=19BC00)
+
+**ML & specialist models**  
+![Whisper](https://img.shields.io/badge/faster--whisper-000000?style=flat-square&logo=python&logoColor=19BC00)
+![LightGBM](https://img.shields.io/badge/LightGBM-000000?style=flat-square&logo=python&logoColor=19BC00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=19BC00)
+
+**Agentic coding & harness**  
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=19BC00)
+![Codex](https://img.shields.io/badge/Codex_CLI-000000?style=flat-square&logo=openai&logoColor=19BC00)
+![OpenSpec](https://img.shields.io/badge/OpenSpec-000000?style=flat-square&logo=markdown&logoColor=19BC00)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=19BC00)
 
 **Backend**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=19BC00)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=19BC00)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=19BC00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=19BC00)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=19BC00)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=19BC00)
+
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=19BC00)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=19BC00)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=19BC00)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=19BC00)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=19BC00)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=19BC00)
 
 **Design**  
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=19BC00)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=flat-square&logo=blender&logoColor=19BC00)
 ![Adobe](https://img.shields.io/badge/Adobe-000000?style=flat-square&logo=adobe&logoColor=19BC00)
 
-**Languages & Tooling**  
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=19BC00)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=19BC00)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=19BC00)
-
 <br>
 
-<!-- ===================== 04 · SELECTED WORK ===================== -->
-## 03 · Selected Work
-
-A few projects that show the range: applied AI, full-stack products, and systems work.
+<!-- ===================== SELECTED WORK ===================== -->
+## 04 · Selected Work
 
 <table>
 <tr>
+<td width="50%">
+<a href="https://github.com/leozitogs/ai-harness-compiler">
+<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=ai-harness-compiler&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="ai-harness-compiler">
+</a>
+</td>
 <td width="50%">
 <a href="https://github.com/leozitogs/vid2llm">
 <img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=vid2llm&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="vid2llm">
 </a>
 </td>
-<td width="50%">
-<a href="https://github.com/leozitogs/hi-ufpe-web">
-<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=hi-ufpe-web&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="hi-ufpe-web">
-</a>
-</td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/leozitogs/leovox-task">
-<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=leovox-task&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="leovox-task">
+<a href="https://github.com/leozitogs/agentic-lab">
+<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=agentic-lab&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="agentic-lab">
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/leozitogs/portfolio-digital-flask">
-<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=portfolio-digital-flask&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="portfolio-digital-flask">
+<a href="https://github.com/leozitogs/leovox-studios">
+<img src="https://github-readme-stats-leozitogs.vercel.app/api/pin/?username=leozitogs&repo=leovox-studios&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=C5F49D&border_color=222222" alt="leovox-studios">
 </a>
 </td>
 </tr>
 </table>
 
-**vid2llm** is published on PyPI:
-
-```bash
-pip install vid2llm
-```
-<!-- Confirme o nome exato do pacote no PyPI e a descricao de uma linha. -->
-
 <br>
 
-<!-- ===================== 05 · STATS ===================== -->
-## 04 · Stats
+<!-- ===================== STATS ===================== -->
+## 05 · Stats
 
 <p align="center">
 <img height="165" src="https://github-readme-stats-leozitogs.vercel.app/api?username=leozitogs&show_icons=true&count_private=true&hide_border=false&bg_color=000000&title_color=19BC00&icon_color=19BC00&text_color=FFFFFF&border_color=222222" alt="GitHub stats">
@@ -117,18 +132,14 @@ pip install vid2llm
 
 <br>
 
-<!-- ===================== 06 · LEOVOX ===================== -->
-## 05 · Leovox Studios
+<!-- ===================== LEOVOX ===================== -->
+## 06 · Leovox Studios
 
-Leovox is my creative studio, operating where design meets software. Brand identity, web development, and product design under one roof. Same standard whether the deliverable is a model, an interface, or a brand.
+Leovox is my creative studio, where design meets software: brand identity, web development and product design under one roof. Same standard whether the deliverable is a model, an interface or a brand.
 
 **Develop your dreams.**
 
-<!-- Opcional: adicione assets/footer-leovox.png aqui quando estiver pronto. -->
-
 <p align="center">
-<a href="https://portfolio-digital-flask.onrender.com">Portfolio</a>
-&nbsp;·&nbsp;
 <a href="https://www.behance.net/leovoxstudiosS">Behance</a>
 </p>
 
