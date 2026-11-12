@@ -64,8 +64,8 @@ PROJECTS = [
     },
     {
         "repo": "agentic-lab",
-        "desc": "An open lab for AI engineering: prompts, skills and MCP, "
-        "then multi-agent systems, harness and evals. 16 weeks.",
+        "desc": "An open lab for AI engineering: 8 weeks of fundamentals, "
+        "then 11 modules from agents and RAG to evals and LLMOps.",
         "tag": "PLAYBOOK",
         "lang_fallback": "Markdown",
     },
