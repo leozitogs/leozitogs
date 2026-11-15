@@ -57,6 +57,12 @@ PROJECTS = [
         "tag": "OPEN SOURCE · APACHE-2.0",
     },
     {
+        "repo": "analista-agentico",
+        "desc": "Business questions in Portuguese become read-only SQL, measured on a "
+        "frozen test set. Distilled into a 1.5B model: 18 to 32 of 44.",
+        "tag": "AGENT · EVALS · FINE-TUNING",
+    },
+    {
         "repo": "vid2llm",
         "desc": "Turns any video into LLM-ready frames, with smart sampling, "
         "scene detection and OCR. Published on PyPI as vid2llm.",
@@ -69,18 +75,12 @@ PROJECTS = [
         "tag": "PLAYBOOK",
         "lang_fallback": "Markdown",
     },
-    {
-        "repo": "leovox-studios",
-        "desc": "The Leovox Studios portfolio, built as a single-take film: "
-        "one continuous scene from the first scroll to contact.",
-        "tag": "PORTFOLIO · IN PROGRESS",
-    },
 ]
 
 ARSENAL = [
     ("AI ENGINEERING", "the base", ["Claude Agent SDK", "LangGraph", "MCP", "OpenAI", "Gemini", "Ollama"]),
     ("AGENTIC CODING & HARNESS", "the edge", ["Claude Code", "Codex CLI", "OpenSpec", "GitHub Actions"]),
-    ("ML & SPECIALIST MODELS", None, ["faster-whisper", "LightGBM", "scikit-learn"]),
+    ("ML & SPECIALIST MODELS", None, ["PyTorch", "LoRA / PEFT", "faster-whisper", "LightGBM", "scikit-learn"]),
     ("BACKEND", None, ["Python", "FastAPI", "PostgreSQL", "Node.js"]),
     ("FRONTEND", None, ["TypeScript", "React", "Next.js", "Tailwind", "GSAP", "Three.js"]),
     ("DESIGN", None, ["Figma", "Blender", "Adobe"]),

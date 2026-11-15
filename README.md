@@ -34,7 +34,7 @@
 
 I'm an **AI Engineer**, currently **Tech Lead at V-Lab (UFPE)**, the R&D lab of the Center for Informatics, where I lead two AI products and the lab's agentic coding strategy.
 
-My foundation is **AI engineering**: multi-agent systems built with the Claude Agent SDK and LangGraph, pipelines with swappable LLMs, and local specialist models for transcription, risk prediction and hybrid search. Evals measure every outcome.
+My foundation is **AI engineering**: multi-agent systems built with the Claude Agent SDK and LangGraph, pipelines with swappable LLMs, local specialist models for transcription, risk prediction and hybrid search, and fine-tuning small open models with LoRA. Evals measure every outcome.
 
 On top of that base, two things set me apart:
 
@@ -54,6 +54,7 @@ As a lead, no feature starts without an engineering plan, and decisions live in 
 
 **In the open**
 - **[AI Harness Compiler](https://github.com/leozitogs/ai-harness-compiler):** compiles project intent into typed, verifiable AI engineering harnesses.
+- **[analista-agentico](https://github.com/leozitogs/analista-agentico):** business questions in Portuguese become read-only SQL, with a test set frozen before measuring and success criteria written in advance. I distilled it into a small open model: a [1.5B LoRA adapter](https://huggingface.co/leozitogs/analista-olist-qwen2.5-coder-1.5b-lora), trained in 32 minutes on a 6 GB laptop GPU, went from 18 to 32 of 44 correct queries (the teacher scores 36).
 - **[vid2llm](https://github.com/leozitogs/vid2llm):** turns any video into LLM-ready frames. `pip install vid2llm`
 
 <br>
@@ -63,9 +64,9 @@ As a lead, no feature starts without an engineering plan, and decisions live in 
 
 <p align="center">
   <a href="https://github.com/leozitogs/ai-harness-compiler"><img src="assets/cards/project-ai-harness-compiler.svg" width="49%" alt="ai-harness-compiler: compiles project intent into typed, verifiable AI engineering harnesses. Python, Apache-2.0."></a>
+  <a href="https://github.com/leozitogs/analista-agentico"><img src="assets/cards/project-analista-agentico.svg" width="49%" alt="analista-agentico: business questions in Portuguese become read-only SQL, measured on a frozen test set, then distilled into a 1.5B model that went from 18 to 32 of 44."></a>
   <a href="https://github.com/leozitogs/vid2llm"><img src="assets/cards/project-vid2llm.svg" width="49%" alt="vid2llm: turns any video into LLM-ready frames. Python, on PyPI, Apache-2.0."></a>
   <a href="https://github.com/leozitogs/agentic-lab"><img src="assets/cards/project-agentic-lab.svg" width="49%" alt="agentic-lab: a living lab for AI systems engineering, with versioned prompts, skills, MCP servers and evals."></a>
-  <a href="https://github.com/leozitogs/leovox-studios"><img src="assets/cards/project-leovox-studios.svg" width="49%" alt="leovox-studios: the Leovox Studios portfolio, built as a single-take film. TypeScript, in progress."></a>
 </p>
 
 <br>
@@ -96,7 +97,7 @@ As a lead, no feature starts without an engineering plan, and decisions live in 
 
 Leovox is my creative studio, where design meets software: brand identity, web development and product design under one roof. Same standard whether the deliverable is a model, an interface or a brand.
 
-**Develop your dreams.** See the work on [Behance](https://www.behance.net/leovoxstudiosS).
+**Develop your dreams.** See the work on [Behance](https://www.behance.net/leovoxstudiosS), and the studio's portfolio, built as a single-take film, in [leovox-studios](https://github.com/leozitogs/leovox-studios).
 
 <br>
 
